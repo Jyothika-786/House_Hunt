@@ -1,0 +1,6 @@
+{
+  "name": "HouseHunt",
+  "description": "An all-in-one house rental and sales platform with detailed listings, virtual tour simulations, agreement management, and an AI-powered market advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
